@@ -1,6 +1,5 @@
 = crcep.github.io
 :nofooter:
-:sectanchors:
 
 == streams
 
