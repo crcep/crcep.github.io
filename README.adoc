@@ -4,6 +4,8 @@
 
 image:https://img.shields.io/github/stars/crcep?label=Stars%20from%20users&style=social[GitHub Repo stars,link="https://github.com/crcep"]
 
+image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
+
 == streams
 
 === 2022
