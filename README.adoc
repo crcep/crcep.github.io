@@ -1,5 +1,8 @@
 = crcep.github.io
 :nofooter:
+:docinfo1:
+
+image:https://img.shields.io/github/stars/crcep?label=Stars%20from%20users&style=social[GitHub Repo stars,link="https://github.com/crcep"]
 
 == streams
 
