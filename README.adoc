@@ -21,6 +21,6 @@ The CRC program gives the possibility to gain additional specialist knowledge in
 
 === streams
 
-==== 2023
+==== 2024
 
 - https://crcep.github.io/cybersecurity[Cybersecurity]
